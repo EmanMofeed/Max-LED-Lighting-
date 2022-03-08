@@ -19,7 +19,6 @@ Project is created with:
 * java
 * javaFx
 ## Setup
->input: you should have a file contains the order of  numbers.
 >To run this project, install it locally.
 ## Screenshots
 >You can choose randomly the number of leds Or  a file that contains the order of leds .
