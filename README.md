@@ -19,16 +19,21 @@ Project is created with:
 * java
 * javaFx
 ## Setup
-And you should have a file contains the order of the numbers of led as an input to the project
-To run this project, install it locally.
+>input: you should have a file contains the order of  numbers.
+>To run this project, install it locally.
 ## Screenshots
-You can choose randomly the number of leds Or  a file that contains the order of leds .
-![led1](https://user-images.githubusercontent.com/86316644/157325623-9fc647be-f201-4567-9aa6-85b3bb704590.PNG)
-Click the first Button to calculate max number of leds with random order then a second stage will appear and input is number of leds e.g:6
-![Led2](https://user-images.githubusercontent.com/86316644/157326656-cd759819-7647-420b-b8c1-83e09752c822.PNG)
-when you click to run button another stage will appear and its contain the maximum number of led light and it calculate dynamic table 
-![led3](https://user-images.githubusercontent.com/86316644/157327125-3c8af092-4bda-422e-9354-2cf54943a4fa.PNG)
-![led4](https://user-images.githubusercontent.com/86316644/157327139-9514d039-a98c-4e47-b225-1214909aa194.PNG)
-Or you can Click on Read File Button if you want to choose your own order of numbers.
+>You can choose randomly the number of leds Or  a file that contains the order of leds .
+>![led1](https://user-images.githubusercontent.com/86316644/157325623-9fc647be-f201-4567-9aa6-85b3bb704590.PNG)
+
+>Click the first Button to calculate max number of leds with random order then a second stage will appear and input is number of leds e.g:6
+
+>![Led2](https://user-images.githubusercontent.com/86316644/157326656-cd759819-7647-420b-b8c1-83e09752c822.PNG)
+>
+>When you click to the run button another stage will appear and its contain the maximum number of led light and it calculate dynamic table 
+>
+>![led3](https://user-images.githubusercontent.com/86316644/157327125-3c8af092-4bda-422e-9354-2cf54943a4fa.PNG)
+>
+>![led4](https://user-images.githubusercontent.com/86316644/157327139-9514d039-a98c-4e47-b225-1214909aa194.PNG)
+>Or you can Click on Read File Button if you want to choose your own order of numbers.
 
 
