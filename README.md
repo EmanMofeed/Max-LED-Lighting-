@@ -24,7 +24,7 @@ Project is created with:
 >You can choose randomly the number of leds Or  a file that contains the order of leds .
 >![led1](https://user-images.githubusercontent.com/86316644/157325623-9fc647be-f201-4567-9aa6-85b3bb704590.PNG)
 
->Click the first Button to calculate max number of leds with random order then a second stage will appear and input is number of leds e.g:6
+>Click the first Button to calculate max number of leds with random order ,then a second stage will appear and the input is number of leds e.g:6
 
 >![Led2](https://user-images.githubusercontent.com/86316644/157326656-cd759819-7647-420b-b8c1-83e09752c822.PNG)
 >
